@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Stem Fluency Help",
+    description: "Official Stem Fluency Help Site",
   },
   plugins: [
     "gatsby-transformer-sharp",
